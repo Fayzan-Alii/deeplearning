@@ -1,0 +1,5 @@
+outs:
+- md5: 9711e634daf8c20b5cfc2778e2b34aff
+  size: 4801
+  hash: md5
+  path: Advertising.csv
