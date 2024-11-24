@@ -1,6 +1,6 @@
-# Logistic and Linear Regression Project
+# Logistic and Linear Regression from Scratch
 
-This project demonstrates the implementation of Logistic Regression and Linear Regression models using Python.
+This project demonstrates the implementation of Logistic Regression and Linear Regression models using Python from scratch.
 
 ## Usage
 
